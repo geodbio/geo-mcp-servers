@@ -31,7 +31,7 @@ Then ask Claude things like *"is there an MCP server for STAC imagery?"* or *"tr
 
 **113 servers tracked** across 12 categories.
 
-_Health checked 2026-10-24 (active = repo pushed within 12 months): 🟢 active 63 · 🟡 stale 18 · ⚪ hosted 26 · ⏳ pending 3 · 🔴 archived 1._
+_Health checked 2026-10-29 (active = repo pushed within 12 months): 🟢 active 64 · 🟡 stale 18 · ⚪ hosted 27 · ⏳ pending 3 · 🔴 archived 1._
 
 
 _Access: 🟩 open 48 · 🟨 free 4 · 🟦 commercial 53 · 🟥 paywalled 8._
@@ -158,7 +158,7 @@ _Access: 🟩 open 48 · 🟨 free 4 · 🟦 commercial 53 · 🟥 paywalled 8._
 | --- | --- | --- | --- | --- | --- | --- |
 | [ArcGISMCP](https://github.com/GarrickGarcia/ArcGISMCP) | Integrates ArcGIS Online — search/query geospatial feature layers | Python<br>local | GarrickGarcia | community | 🟦 commercial | 🟡 stale |
 | [esri-mcp](https://github.com/eKerney/esri-mcp) | Query & map Esri Living Atlas data, focus on water resources | Python<br>unknown | eKerney | community | 🟦 commercial | 🟡 stale |
-| [gis-agent-bridges](https://github.com/YUYU20061107/gis-agent-bridges) | Safety-gated MCP bridges for mainstream desktop GIS (SuperMap, ArcGIS Pro/ArcMap, QGIS, GeoScene, MapGIS, ENVI, Global Mapper, FME) - localhost-only, confirm-gated writes, originals read-only, no arbitrary code execution | Python<br>local | YUYU20061107 | community | 🟦 commercial | — |
+| [gis-agent-bridges](https://github.com/YUYU20061107/gis-agent-bridges) | Safety-gated MCP bridges for mainstream desktop GIS (SuperMap, ArcGIS Pro/ArcMap, QGIS, GeoScene, MapGIS, ENVI, Global Mapper, FME) - localhost-only, confirm-gated writes, originals read-only, no arbitrary code execution | Python<br>local | YUYU20061107 | community | 🟦 commercial | 🟢 active |
 | [MCP-ArcGISPro](https://github.com/geo2004/MCP-ArcGISPro) | Control and automate ArcGIS Pro from Claude Desktop | Python<br>local | geo2004 | community | 🟥 paywalled | 🟢 active |
 | [MCP-Server-ArcGIS-Pro-AddIn](https://github.com/nicogis/MCP-Server-ArcGIS-Pro-AddIn) | MCP server delivered as an ArcGIS Pro add-in | C#/.NET<br>addin | nicogis | community | 🟥 paywalled | 🟢 active |
 | [qgis-mcp (nkarasiak)](https://github.com/nkarasiak/qgis-mcp) | 117 QGIS tools — layer mgmt, feature editing, processing, styling, layout/atlas, cross-layer SQL | Python<br>local | nkarasiak | community | 🟩 open | 🟢 active |
@@ -201,7 +201,7 @@ _Access: 🟩 open 48 · 🟨 free 4 · 🟦 commercial 53 · 🟥 paywalled 8._
 | [ATTOM MCP](https://github.com/pipeworx-io/mcp-attom) | Premium US real-estate & property data from ATTOM Data Solutions — property details, valuations, ownership & sales history | TypeScript<br>local+hosted | Pipeworx (uses ATTOM API) | community | 🟥 paywalled | 🟢 active |
 | [LandRecords.us MCP Server](https://landrecords.us/documentation/mcp-server) | Query 160M+ US land parcels by attribute, address, radius, bbox or GeoJSON polygon — ownership, assessed value, land use, acreage & geometry | hosted | landrecords.us | official | 🟦 commercial | ⚪ hosted |
 | [MAIA MCP](https://maia-analytics.com/docs/mcp/connect) | Hosted connector that builds US location datasets as map + table projects — parcels, owners, zoning, buildings, businesses & contacts — from plain-language requests, with CSV/GeoJSON import and project querying | hosted | MAIA Analytics | official | 🟦 commercial | ⚪ hosted |
-| [Pluia (PLU IA) MCP Server](https://pluia.fr/ia) | French zoning (PLU) for any address or parcel in France, rules cited with the official PDF page | hosted | AZERIA IT | official | 🟦 commercial | — |
+| [Pluia (PLU IA) MCP Server](https://pluia.fr/ia) | French zoning (PLU) for any address or parcel in France, rules cited with the official PDF page | hosted | AZERIA IT | official | 🟦 commercial | ⚪ hosted |
 | [Regrid MCP Server](https://regrid.com/mcp) | 160M+ US/Canada land parcels — query by location, zoning, acreage, ownership & building criteria | hosted | Regrid | official | 🟦 commercial | ⚪ hosted |
 
 ### Aviation & maritime tracking (ADS-B, AIS)

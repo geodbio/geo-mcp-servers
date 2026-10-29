@@ -1,6 +1,6 @@
 {
   "active_months": 12,
-  "checked": "2026-10-24",
+  "checked": "2026-10-29",
   "servers": {
     "https://api.geobble.com/mcp": {
       "status": "hosted"
@@ -116,6 +116,10 @@
     "https://github.com/X-McKay/geocode-mcp": {
       "pushed": "2025-07",
       "status": "stale"
+    },
+    "https://github.com/YUYU20061107/gis-agent-bridges": {
+      "pushed": "2026-10",
+      "status": "active"
     },
     "https://github.com/aatakansalar/valhalla-mcp": {
       "pushed": "2025-06",
@@ -310,19 +314,19 @@
       "status": "active"
     },
     "https://github.com/pipeworx-io/mcp-maptiler": {
-      "pushed": "2026-09",
+      "pushed": "2026-10",
       "status": "active"
     },
     "https://github.com/pipeworx-io/mcp-nominatim": {
-      "pushed": "2026-09",
+      "pushed": "2026-10",
       "status": "active"
     },
     "https://github.com/pipeworx-io/mcp-osrm": {
-      "pushed": "2026-09",
+      "pushed": "2026-10",
       "status": "active"
     },
     "https://github.com/pipeworx-io/mcp-what3words": {
-      "pushed": "2026-09",
+      "pushed": "2026-10",
       "status": "active"
     },
     "https://github.com/receptopalak/postgis-mcp": {
@@ -382,6 +386,9 @@
       "status": "hosted"
     },
     "https://mcp.ipinfo.io/": {
+      "status": "hosted"
+    },
+    "https://pluia.fr/ia": {
       "status": "hosted"
     },
     "https://regrid.com/mcp": {
