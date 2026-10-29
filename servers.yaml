@@ -1307,12 +1307,13 @@ servers:
     added: 2026-10-25
   - name: Pluia (PLU IA) MCP Server
     access: commercial
-    url: https://github.com/AZERIA-IT/pluia
+    url: https://pluia.fr/ia
     description: French zoning (PLU) for any address or parcel in France, rules cited with the official PDF page
     category: property
     author: AZERIA IT
+    official: true
     deployment: hosted
     vendor_domain: pluia.fr
     tags: [france, zoning, plu, urban-planning, cadastral-parcel, hosted]
-    note: "endpoint https://pluia.fr/mcp (Streamable HTTP, OAuth 2.1 or API key with a Pluia account); free plan with quotas; the repository holds documentation and client config examples only, the service is not open source"
+    note: "endpoint https://pluia.fr/mcp (Streamable HTTP, OAuth 2.1 or API key with a Pluia account); free plan with quotas; docs and client config at github.com/AZERIA-IT/pluia (MIT), service not open source; MCP Registry: io.github.AZERIA-IT/pluia"
     added: 2026-10-29

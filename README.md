@@ -201,7 +201,7 @@ _Access: 🟩 open 48 · 🟨 free 4 · 🟦 commercial 53 · 🟥 paywalled 8._
 | [ATTOM MCP](https://github.com/pipeworx-io/mcp-attom) | Premium US real-estate & property data from ATTOM Data Solutions — property details, valuations, ownership & sales history | TypeScript<br>local+hosted | Pipeworx (uses ATTOM API) | community | 🟥 paywalled | 🟢 active |
 | [LandRecords.us MCP Server](https://landrecords.us/documentation/mcp-server) | Query 160M+ US land parcels by attribute, address, radius, bbox or GeoJSON polygon — ownership, assessed value, land use, acreage & geometry | hosted | landrecords.us | official | 🟦 commercial | ⚪ hosted |
 | [MAIA MCP](https://maia-analytics.com/docs/mcp/connect) | Hosted connector that builds US location datasets as map + table projects — parcels, owners, zoning, buildings, businesses & contacts — from plain-language requests, with CSV/GeoJSON import and project querying | hosted | MAIA Analytics | official | 🟦 commercial | ⚪ hosted |
-| [Pluia (PLU IA) MCP Server](https://github.com/AZERIA-IT/pluia) | French zoning (PLU) for any address or parcel in France, rules cited with the official PDF page | hosted | AZERIA IT | community | 🟦 commercial | — |
+| [Pluia (PLU IA) MCP Server](https://pluia.fr/ia) | French zoning (PLU) for any address or parcel in France, rules cited with the official PDF page | hosted | AZERIA IT | official | 🟦 commercial | — |
 | [Regrid MCP Server](https://regrid.com/mcp) | 160M+ US/Canada land parcels — query by location, zoning, acreage, ownership & building criteria | hosted | Regrid | official | 🟦 commercial | ⚪ hosted |
 
 ### Aviation & maritime tracking (ADS-B, AIS)
